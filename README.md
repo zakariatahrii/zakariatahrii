@@ -64,8 +64,7 @@
 
 ## 💬 Let's Connect
 
-- 📨 Email: zakaria.tahri.dev@gmail.com *(replace with yours if different)*
-- 📍 Location: Agadir, Morocco
+- 📨 Email: tahrizakariabes@gmail.com
 - 🧠 Future 42 Coder 💪
 
 ---
